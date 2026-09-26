@@ -1,3 +1,3 @@
-All ML Models that I have work on. To achieve High accuracy. 
-Name of the model is mentioned.
->>>>>>> e1fc53a064516282adfaa8b78171e916dd333ec9
+## CNN Neural Network Project
+
+This project focuses on building and training a Convolutional Neural Network (CNN) for image classification using Python and TensorFlow/Keras. The project covers image dataset preparation, preprocessing, CNN architecture design, model training, validation, and performance evaluation. It includes techniques such as convolutional layers, pooling, batch normalization, dropout, and early stopping to improve model performance and reduce overfitting. This project is part of my ongoing journey in Deep Learning and Artificial Intelligence, where I am developing practical skills by building and experimenting with real-world machine learning models.
